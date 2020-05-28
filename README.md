@@ -24,6 +24,11 @@
 ###### Clustering
 ![](im/CLustering.png)
 
+###### PCA
+![](im/PCA.png) 
+
+###### Test Data
+![](im/Testing.png)
 
 ## Gradient Descent
 
@@ -39,6 +44,7 @@
 ![](im/Performdf.png)
 
 ## Spike triggered Average
+*still a work in progress*
 *Implemented*:
 1) Standard Spike triggered Average
 2) Reading from pickled file
@@ -49,6 +55,9 @@
 
 ###### Funtion for STA
 ![](im/COmputSTA.png)
+
+###### OUTPUT *still a work in progress... hoping to better clean data and prove function*
+![](im/STA.png)
 
 *Implemented*:
 1) Standard Spike triggered Average
