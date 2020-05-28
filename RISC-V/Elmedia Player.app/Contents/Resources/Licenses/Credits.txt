@@ -1,0 +1,177 @@
+ffmpeg - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://www.ffmpeg.org/releases/ffmpeg-4.0.2.tar.gz)
+
+fdk-aac - © Copyright  1995 - 2012 Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
+(License https://fedoraproject.org/wiki/Licensing/FDK-AAC) (Sources https://sourceforge.net/projects/opencore-amr/files/fdk-aac/fdk-aac-0.1.6.tar.gz/download/)
+
+flac - Copyright (C) 2001-2009  Josh Coalson
+Copyright (C) 2011-2016  Xiph.Org Foundation
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources http://downloads.xiph.org/releases/flac/flac-1.3.2.tar.xz)
+
+lame - Copyrights (c) 1999-2011 by The LAME Project
+Copyrights (c) 1999,2000,2001 by Mark Taylor
+Copyrights (c) 1998 by Michael Cheng
+Copyrights (c) 1995,1996,1997 by Michael Hipp: mpglib
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://github.com/rbrito/lame.git)
+
+ogg - Copyright (c) 2002, Xiph.org Foundation
+(License https://git.xiph.org/?p=ogg.git;a=blob_plain;f=COPYING) (Sources http://downloads.xiph.org/releases/ogg/libogg-1.3.3.tar.gz)
+
+opus - Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding, Erik de Castro Lopo
+(License https://git.xiph.org/?p=opus.git;a=blob_plain;f=COPYING) (Sources http://downloads.xiph.org/releases/opus/opus-1.2.1.tar.gz)
+
+theora - Copyright (C) 2002-2009 Xiph.org Foundation
+(License https://git.xiph.org/?p=theora.git;a=blob_plain;f=COPYING) (Sources https://git.xiph.org/theora.git)
+
+twolame - Copyright (C) 2001-2004 Michael Cheng
+Copyright (C) 2004-2006 The TwoLAME Project
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources http://downloads.sourceforge.net/twolame/twolame-0.3.13.tar.gz)
+
+vorbis - Copyright (c) 2002-2018 Xiph.org Foundation
+(License https://git.xiph.org/?p=vorbis.git;a=blob_plain;f=COPYING) (Sources http://downloads.xiph.org/releases/vorbis/libvorbis-1.3.6.tar.gz)
+
+vpx - Copyright (c) 2010, The WebM Project authors. All rights reserved.
+(License https://github.com/webmproject/libvpx/blob/master/LICENSE) (Sources https://github.com/webmproject/libvpx)
+
+openh264 - Copyright (c) 2013, Cisco Systems
+(License https://github.com/cisco/openh264/blob/master/LICENSE) (Sources https://github.com/cisco/openh264)
+
+libmpv - Copyright © 2000-2018 mpv/MPlayer/mplayer2 projects
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://github.com/mpv-player/mpv)
+
+libavcodec - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ffmpeg.org/releases/ffmpeg-4.0.1.tar.bz2)
+
+libavdevice - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ffmpeg.org/releases/ffmpeg-4.0.1.tar.bz2)
+
+libavfilter - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ffmpeg.org/releases/ffmpeg-4.0.1.tar.bz2)
+
+libavformat - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ffmpeg.org/releases/ffmpeg-4.0.1.tar.bz2)
+
+libavutil - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ffmpeg.org/releases/ffmpeg-4.0.1.tar.bz2)
+
+libswresample - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ffmpeg.org/releases/ffmpeg-4.0.1.tar.bz2)
+
+libswscale - Copyright (c) 2000-2018 the FFmpeg developers
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ffmpeg.org/releases/ffmpeg-4.0.1.tar.bz2)
+
+libjpeg - Copyright (C) 1994-2013, Thomas G. Lane, Guido Vollbeding.
+(License http://jpegclub.org/reference/libjpeg-license/) (Sources http://www.ijg.org/files/jpegsr9c.zip)
+
+libssl - Copyright (c) 1998-2018 The OpenSSL Project
+Copyright (c) 1995-1998 Eric A. Young, Tim J. Hudson
+(License https://www.openssl.org/source/license.txt) (Sources https://www.openssl.org/source/openssl-1.0.2o.tar.gz)
+
+libass - Copyright (C) 2006 Evgeniy Stepanov <eugeni.stepanov@gmail.com>
+Copyright (C) 2011 Grigori Goronzy <greg@chown.ath.cx>
+(License https://github.com/libass/libass/blob/master/COPYING) (Sources https://github.com/libass/libass/archive/0.14.0.tar.gz)
+
+libfontconfig - Copyright © 2000,2001,2002,2003,2004,2006,2007 Keith Packard
+Copyright © 2005 Patrick Lam
+Copyright © 2009 Roozbeh Pournader
+Copyright © 2008,2009 Red Hat, Inc.
+Copyright © 2008 Danilo Šegan
+Copyright © 2012 Google, Inc.
+(License https://github.com/behdad/fontconfig/blob/master/COPYING) (Sources https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.0.tar.gz)
+
+libexpat - Copyright (c) 1998-2000 Thai Open Source Software Center Ltd and Clark Cooper
+Copyright (c) 2001-2017 Expat maintainers
+(License https://github.com/libexpat/libexpat/blob/master/expat/COPYING) (Sources https://sourceforge.net/projects/expat/files/expat/2.2.0/expat-2.2.0.tar.bz2/download)
+
+libuuid - Copyright (c) 2004-2008 Ralf S. Engelschall <rse@engelschall.com>
+Copyright (c) 2004-2008 The OSSP Project <http://www.ossp.org/>
+(License https://github.com/sean-/ossp-uuid/blob/master/README) (Sources https://github.com/sean-/ossp-uuid)
+
+libfreetype - Copyright (c) 1996-2000 The FreeType Project
+(License http://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT) (Sources https://sourceforge.net/projects/freetype/files/freetype2/2.8.1/freetype-2.8.1.tar.gz/download)
+
+libpng - Copyright (c) 1995-2016 Guy Eric Schalnat, Andreas Dilger, John Bowler, Glenn Randers-Pehrson (current maintainer), and others
+(License http://www.libpng.org/pub/png/src/libpng-LICENSE.txt) (Sources https://sourceforge.net/projects/libpng/files/libpng16/older-releases/1.6.23/libpng-1.6.23.tar.xz/download)
+
+libfribidi - Copyright (C) 2004 Sharif FarsiWeb, Inc
+Copyright (C) 2001, 2002, 2004  Behdad Esfahbod
+Copyright (C) 1999, 2000, 2017  Dov Grobgeld
+(License https://github.com/fribidi/fribidi/blob/master/COPYING) (Sources https://github.com/fribidi/fribidi/archive/0.19.7.zip)
+
+libiconv - Copyright (C) Bruno Haible <bruno@clisp.org>
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.14.tar.gz)
+
+libglib-2 - Copyright © 2007-2017 The GTK+ Team
+(License https://www.gnu.org/licenses/lgpl-2.1.html) (Sources https://gitlab.gnome.org/GNOME/glib/-/archive/2.56.1/glib-2.56.1.tar.gz)
+
+libpcre - Copyright (c) 1997-2018 University of Cambridge
+(License https://www.pcre.org/licence.txt) (Sources https://sourceforge.net/projects/pcre/files/pcre/8.42/pcre-8.42.tar.gz/download)
+
+libbluray - Copyright (C) 2009-2010 Obliter0n, Copyright (C) 2009-2010 John Stebbins, Copyright (C) 2010-2017 Petri Hintukainen
+(License https://code.videolan.org/videolan/libbluray/blob/master/COPYING) (Sources https://cdn.eltima.com/download/libs2/libbluray-1.0.2.tar.bz2 https://download.videolan.org/pub/videolan/libbluray/1.0.2/libbluray-1.0.2.tar.bz2)
+
+harfbuzz - Copyright © 2010,2011,2012 Google, Inc., Copyright © 2012  Mozilla Foundation
+(License https://github.com/harfbuzz/harfbuzz/blob/master/COPYING) (Sources https://cdn.eltima.com/download/libs2/harfbuzz-2.2.0.tar.bz2 https://www.freedesktop.org/software/harfbuzz/release/harfbuzz-2.2.0.tar.bz2)
+
+Sparkle - Copyright (c) 2014 Big Nerd Ranch.
+(License https://github.com/sparkle-project/Sparkle/blob/master/LICENSE) (Sources https://github.com/sparkle-project/Sparkle)
+
+UniversalDetector - (License https://github.com/niltsh/UniversalDetector/blob/master/LICENSE.md) (Sources https://github.com/niltsh/UniversalDetector)
+
+FeedbackReporter - Copyright 2008-2012, Torsten Curdt
+(License https://github.com/tcurdt/feedbackreporter/blob/master/LICENSE.txt) (Sources https://github.com/tcurdt/feedbackreporter)
+
+SPMediaKeyTap - Copyright (c) 2011, Joachim Bengtsson
+(License https://github.com/nevyn/SPMediaKeyTap/blob/master/LICENSE) (Sources https://github.com/nevyn/SPMediaKeyTap)
+
+HIDRemote - Copyright (c) 2007-2015 IOSPIRIT GmbH
+(http://www.iospirit.com/) (License https://github.com/iospirit/HIDRemote/blob/master/LICENSE.txt) (Sources https://github.com/iospirit/HIDRemote)
+
+pugixml - Copyright (C) 2006-2016, by Arseny Kapoulkine
+(License https://github.com/zeux/pugixml/blob/master/readme.txt) (Sources https://github.com/zeux/pugixml)
+
+mozjs - Copyright © 2013-2015 Mozilla JavaScript team
+(License https://www.mozilla.org/en-US/MPL/2.0/) (Sources https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
+
+jsoncpp - Copyright © 2007-2010 Baptiste Lepilleur
+(License https://github.com/open-source-parsers/jsoncpp/blob/master/LICENSE) (Sources https://github.com/open-source-parsers/jsoncpp)
+
+env - Copyright 2008-2010 John Resig, under the MIT License
+(License https://github.com/thatcher/env-js/blob/master/licenses/MIT-LICENSE.txt) (Sources https://github.com/thatcher/env-js)
+
+nspr - Copyright © 2005-2016 Mozilla Developer Network and individual contributors
+(License https://www.mozilla.org/media/MPL/2.0/index.815ca599c9df.txt) (Sources https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR/NSPR_Contributor_Guide)
+
+curve25519-donna - Copyright 2008, Google Inc. All rights reserved.
+(License https://github.com/agl/curve25519-donna/blob/master/LICENSE.md) (Sources https://github.com/agl/curve25519-donna/tree/master)
+
+ed25519 - Copyright (c) 2015 Orson Peters <orsonpeters@gmail.com>
+(License https://github.com/orlp/ed25519/blob/master/license.txt) (Sources https://github.com/orlp/ed25519)
+
+csrp - Copyright (c) 2013 Tom Cocagne
+(License https://github.com/hoccer/csrp/blob/master/LICENSE) (Sources https://github.com/hoccer/csrp)
+(Source Modifications https://github.com/ejurgensen/atv_verification/tree/master/csrp)
+
+AFNetworking - Copyright (c) 2011–2016 Alamofire Software Foundation (http://alamofire.org/)
+(License https://github.com/AFNetworking/AFNetworking/blob/master/LICENSE) (Sources https://github.com/AFNetworking/AFNetworking)
+
+GCDWebServer - Copyright (c) 2012-2014, Pierre-Olivier Latour
+(License https://github.com/swisspol/GCDWebServer/blob/master/LICENSE) (Sources https://github.com/swisspol/GCDWebServer)
+
+Ono - Copyright (c) 2014 Mattt Thompson (http://mattt.me/)
+(License https://github.com/mattt/Ono/blob/master/LICENSE) (Sources https://github.com/mattt/Ono)
+
+CocoaUPnP - Copyright (c) 2015 Arcam
+(License https://github.com/arcam/CocoaUPnP/blob/develop/LICENSE) (Sources https://github.com/arcam/CocoaUPnP)
+
+OpenCast - Copyright (c) 2015 Adam Jensen
+(License https://github.com/acj/OpenCast/blob/master/LICENSE) (Sources https://github.com/acj/OpenCast)
+
+Google Protocol Buffer - Copyright (c) 2014, Google Inc.
+(License https://github.com/google/protobuf/blob/master/LICENSE) (Sources https://github.com/google/protobuf)
+
+OROpenSubtitleDownloader - Copyright (c) 2012 ortatherox.com
+(License https://github.com/orta/OROpenSubtitleDownloader/blob/master/LICENSE) (Sources https://github.com/orta/OROpenSubtitleDownloader)
+
+xmlrpc - Copyright (c) 2012 Eric Czarny
+(License https://github.com/nikolaykasyanov/xmlrpc/blob/master/LICENSE.md) (Sources https://github.com/nikolaykasyanov/xmlrpc)
