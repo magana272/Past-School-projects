@@ -1,8 +1,8 @@
 # Past School projects
 ## Bear Maps
 *Implemented*:
-1)Rastering of images
-2)A* algorithim to find shortest path
+1) Rastering of images
+2) A* algorithim to find shortest path
 ###### First open browser
 ![](im/Inital.png)
 ###### A*
@@ -51,13 +51,13 @@
 ![](im/COmputSTA.png)
 
 *Implemented*:
-1)Standard Spike triggered Average
-2)Reading from pickled file
-3)Look at inital data, and tried to form any inital observations
+1) Standard Spike triggered Average
+2) Reading from pickled file
+3) Look at inital data, and tried to form any inital observations
 
 ## MandelBrot
 *Implemented*:
-1)Complex number subroutines to analyze complex number's stablity
-2)Read and worte to .ppm P6 format to form images and evenually a complete zoomer 
+1) Complex number subroutines to analyze complex number's stablity
+2) Read and worte to .ppm P6 format to form images and evenually a complete zoomer 
 ###### A frame from the images the project created
 ![](im/Fractal.png)
