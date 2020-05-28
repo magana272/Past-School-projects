@@ -10,8 +10,8 @@ Map of Berkeley:
 ![](im/Astar.png)
 ###### Rastering
 ![](im/Raster.png)
+###### Themes
 ![](im/theme.png)
-![](im/Astar.png)
 
 **SIX33en**(Voice Component)
 *Implemented*:
