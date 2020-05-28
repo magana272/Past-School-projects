@@ -12,7 +12,7 @@
 ###### Themes
 ![](im/theme.png)
 
-##SIX33en(Voice Component)
+## SIX33en(Voice Component)
 *Implemented*:
 1) Aligned my Data
 2) Perform PCA torepresent the data in a lower dimension
@@ -25,7 +25,7 @@
 ![](im/CLustering.png)
 
 
-##Gradient Descent
+## Gradient Descent
 
 *Implemented*:
 1) Cost function
@@ -38,7 +38,7 @@
 ###### Algo
 ![](im/Performdf.png)
 
-##Spike triggered Average
+## Spike triggered Average
 *Implemented*:
 1) Standard Spike triggered Average
 2) Reading from pickled file
