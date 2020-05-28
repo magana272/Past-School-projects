@@ -16,7 +16,7 @@
 
 *Implemented*:
 1) Aligned my Data
-2) Perform PCA torepresent the data in a lower dimension
+2) Perform PCA to represent the data in a lower dimension
 3) Trained and tested car
 
 ###### Aligning data
