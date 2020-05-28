@@ -59,7 +59,7 @@
 ###### Funtion for STA
 ![](im/COmputSTA.png)
 
-###### OUTPUT *still a work in progress... hoping to better clean data and prove function*
+###### OUTPUT *still a work in progress... hoping to better clean data and improve function*
 ![](im/STA.png)
 
 
