@@ -1,6 +1,5 @@
 # Past School projects
-**Bear Maps**
-Map of Berkeley:
+## Bear Maps
 *Implemented*:
 1)Rastering of images
 2)A* algorithim to find shortest path
@@ -13,11 +12,11 @@ Map of Berkeley:
 ###### Themes
 ![](im/theme.png)
 
-**SIX33en**(Voice Component)
+##SIX33en(Voice Component)
 *Implemented*:
-1)Algined my Data
-2)Perform PCA torepresent the data in a lower dimension
-3)Trained and tested car
+1) Aligned my Data
+2) Perform PCA torepresent the data in a lower dimension
+3) Trained and tested car
 
 ###### Aligning data
 ![](im/Aligned.png)
@@ -26,10 +25,12 @@ Map of Berkeley:
 ![](im/CLustering.png)
 
 
-**Gradient decent**
+##Gradient Descent
+
 *Implemented*:
-1)Cost function
-2)gradient descent algo
+1) Cost function
+2) Gradient descent algo
+
 ###### Cost Function
 ![](im/Cost.png)
 ###### Completed trained parameters
@@ -37,11 +38,11 @@ Map of Berkeley:
 ###### Algo
 ![](im/Performdf.png)
 
-**Spike triggered Average*
+##Spike triggered Average
 *Implemented*:
-1)Standard Spike triggered Average
-2)Reading from pickled file
-3)Look at inital data, and tried to form any inital observations
+1) Standard Spike triggered Average
+2) Reading from pickled file
+3) Look at inital data, and tried to form any inital observations
 
 ###### Corrolation
 ![](im/COR.png)
@@ -54,7 +55,7 @@ Map of Berkeley:
 2)Reading from pickled file
 3)Look at inital data, and tried to form any inital observations
 
-**MandelBrot**
+## MandelBrot
 *Implemented*:
 1)Complex number subroutines to analyze complex number's stablity
 2)Read and worte to .ppm P6 format to form images and evenually a complete zoomer 
