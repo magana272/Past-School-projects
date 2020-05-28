@@ -70,3 +70,4 @@
 2) Read and worte to .ppm P6 format to form images and evenually a complete zoomer 
 ###### A frame from the images the project created
 ![](im/Fractal.png)
+{\displaystyle f_{c}(z)=z^{2}+c}{\displaystyle f_{c}(z)=z^{2}+c}
