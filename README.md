@@ -13,9 +13,10 @@
 ![](im/theme.png)
 
 ## SIX33en(Voice Component)
+
 *Implemented*:
 1) Aligned my Data
-2) Perform PCA torepresent the data in a lower dimension
+2) Perform PCA to represent the data in a lower dimension
 3) Trained and tested car
 
 ###### Aligning data
@@ -24,6 +25,11 @@
 ###### Clustering
 ![](im/CLustering.png)
 
+###### PCA
+![](im/PCA.png) 
+
+###### Test Data
+![](im/Testing.png)
 
 ## Gradient Descent
 
@@ -39,10 +45,13 @@
 ![](im/Performdf.png)
 
 ## Spike triggered Average
+*still a work in progress: Working on Implementing regualized STA*
+
+1)Looked at inital data, and tried to form any inital observations
+2)Read from pickled files
+
 *Implemented*:
-1) Standard Spike triggered Average
-2) Reading from pickled file
-3) Look at inital data, and tried to form any inital observations
+1) Standard Spike triggered Average 
 
 ###### Corrolation
 ![](im/COR.png)
@@ -50,10 +59,9 @@
 ###### Funtion for STA
 ![](im/COmputSTA.png)
 
-*Implemented*:
-1) Standard Spike triggered Average
-2) Reading from pickled file
-3) Look at inital data, and tried to form any inital observations
+###### OUTPUT *still a work in progress... hoping to better clean data and improve function*
+![](im/STA.png)
+
 
 ## MandelBrot
 *Implemented*:
@@ -61,3 +69,4 @@
 2) Read and worte to .ppm P6 format to form images and evenually a complete zoomer 
 ###### A frame from the images the project created
 ![](im/Fractal.png)
+
