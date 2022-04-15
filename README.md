@@ -12,7 +12,7 @@
 ###### Themes
 ![](im/theme.png)
 
-## SIX33en(Voice Component)
+## Voice Controlled Car SIX33en(Voice Component)
 
 *Implemented*:
 1) Aligned my Data
@@ -30,38 +30,6 @@
 
 ###### Test Data
 ![](im/Testing.png)
-
-## Gradient Descent
-
-*Implemented*:
-1) Cost function
-2) Gradient descent algo
-
-###### Cost Function
-![](im/Cost.png)
-###### Completed trained parameters
-![](im/FOUNDLOCALMIn.png)
-###### Algo
-![](im/Performdf.png)
-
-## Spike triggered Average
-*still a work in progress: Working on Implementing regualized STA*
-
-1)Looked at inital data, and tried to form any inital observations
-2)Read from pickled files
-
-*Implemented*:
-1) Standard Spike triggered Average 
-
-###### Corrolation
-![](im/COR.png)
-
-###### Funtion for STA
-![](im/COmputSTA.png)
-
-###### OUTPUT *still a work in progress... hoping to better clean data and improve function*
-![](im/STA.png)
-
 
 ## MandelBrot
 *Implemented*:
